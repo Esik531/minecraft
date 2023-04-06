@@ -1,0 +1,37 @@
+body {
+    background-color: greenyellow;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+.mia {
+    width: 500px;
+    height: 300px;
+}
+.maincraft {
+    position: fixed;
+    top: 30px;
+    right: 30px;
+width: 100px;
+    height: 100px;
+    border: dashed blueviolet;
+
+}
+.domik {
+width: 100px;
+height: 100px;
+}
+.pozvini {
+    width: 100px;
+    height: 100px;
+}
+.maincraft:hover {
+ border:solid palevioletred;
+}
+.igra{
+    color:  navy;
+}
